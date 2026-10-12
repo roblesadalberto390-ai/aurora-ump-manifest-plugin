@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        id="aurora-ump-manifest-demo-prototype" version="0.1.0">
+  <name>Aurora UMP Manifest Demo Prototype</name>
+  <description>Diagnostic configuration only. Fixed Google demo App ID. Not for production.</description>
+  <license>MIT</license>
+  <platform name="android">
+    <config-file target="AndroidManifest.xml" parent="/manifest/application">
+      <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID"
+                 android:value="ca-app-pub-3940256099942544~3347511713" />
+    </config-file>
+  </platform>
+</plugin>

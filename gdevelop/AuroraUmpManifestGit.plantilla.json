@@ -1,0 +1,48 @@
+{
+  "author": "",
+  "category": "",
+  "dimension": "",
+  "extensionNamespace": "",
+  "fullName": "UMP experimental — pendiente de repositorio y commit",
+  "gdevelopVersion": "",
+  "helpPath": "",
+  "iconUrl": "",
+  "name": "AuroraUmpManifestGit",
+  "previewIconUrl": "",
+  "shortDescription": "",
+  "version": "0.1.0",
+  "description": "PLANTILLA BLOQUEADA: declara solo Consent hasta generar la dependencia Git con URL y SHA reales. No ejecuta APIs ni inicializa publicidad.",
+  "tags": [],
+  "authorIds": [],
+  "dependencies": [
+    {
+      "exportName": "gdevelop-cordova-plugin-consent",
+      "name": "Aurora Consent experimental",
+      "type": "cordova",
+      "version": "3.0.0-alpha.9.patch.1"
+    }
+  ],
+  "globalVariables": [],
+  "sceneVariables": [],
+  "eventsFunctions": [
+    {
+      "fullName": "Marcar dependencias (sin operaciones nativas)",
+      "functionType": "Action",
+      "name": "MarcarDependencias",
+      "sentence": "Marcar dependencias del experimento sin ejecutar SDK",
+      "events": [],
+      "parameters": [],
+      "objectGroups": []
+    }
+  ],
+  "eventsFunctionsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "functionName": "MarcarDependencias"
+      }
+    ]
+  },
+  "eventsBasedBehaviors": [],
+  "eventsBasedObjects": []
+}

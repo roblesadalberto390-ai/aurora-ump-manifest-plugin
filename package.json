@@ -1,0 +1,22 @@
+{
+  "name": "aurora-ump-manifest-demo-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local diagnostic manifest configuration with a fixed Google demo App ID. No advertising SDK.",
+  "license": "MIT",
+  "cordova": {
+    "id": "aurora-ump-manifest-demo-prototype",
+    "platforms": [
+      "android"
+    ]
+  },
+  "files": [
+    "plugin.xml",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ]
+}

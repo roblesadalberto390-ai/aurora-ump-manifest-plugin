@@ -1,0 +1,10 @@
+plugin.xml
+package.json
+README.md
+LICENSE
+VERSION
+VERSIONADO.md
+.gitignore
+generar-extension.cjs
+gdevelop/AuroraUmpManifestGit.plantilla.json
+ARCHIVOS-PARA-REPOSITORIO.txt
